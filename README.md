@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @NewArmin 
-- ⚙ PHP Developer
+- 👋 Hi, I’m @NewArmin | ⚙ PHP Developer
 - 🤖 Telegram Bots
 
 <!---
